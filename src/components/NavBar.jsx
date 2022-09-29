@@ -41,7 +41,7 @@ export function NavBar() {
         }}
       >
         <h3>Algorithms : Sorting Visualizer</h3>
-        <a href="https://github.com/uvacoder/sort-visualizer" target="_blank"><AiFillGithub style={{ fontSize: "1.5rem" }} /></a>
+        <a href="https://github.com/uvacoder/sorting-visualizer" target="_blank"><AiFillGithub style={{ fontSize: "1.5rem" }} /></a>
       </div>
       <AppBar position="static" color="default">
         <Tabs
