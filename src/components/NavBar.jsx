@@ -40,8 +40,8 @@ export function NavBar() {
           alignItems: "center",
         }}
       >
-        <h3>Sorting Algorithms Visualizer</h3>
-        <a href="https://github.com/sadanandpai/sort-visualizer" target="_blank"><AiFillGithub style={{ fontSize: "1.5rem" }} /></a>
+        <h3>Algorithms : Sorting Visualizer</h3>
+        <a href="https://github.com/uvacoder/sort-visualizer" target="_blank"><AiFillGithub style={{ fontSize: "1.5rem" }} /></a>
       </div>
       <AppBar position="static" color="default">
         <Tabs
